@@ -1,0 +1,16 @@
+{
+	"33": [{
+		"string_key": "3314",
+		"description": "PBB KAB. SRAGEN"
+	}, {
+		"string_key": "3316",
+		"description": "PBB KAB. BLORA"
+	}],
+	"70": [{
+		"string_key": "7074",
+		"description": "PAJAK DAERAH KOTA SEMARANG"
+	}, {
+		"string_key": "7014",
+		"description": "ETAX BPPKAD BLORA"
+	}]
+}
