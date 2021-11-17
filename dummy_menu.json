@@ -1,14 +1,12 @@
 {
-	"error_code":"00",
-	"error_desc":"Success",
-	"33": [{
-		"3314": "PBB KAB. SRAGEN"
-	}, {
+	"error_code": "00",
+	"error_desc": "Success",
+	"33": {
+		"3314": "PBB KAB. SRAGEN",
 		"3316": "PBB KAB. BLORA"
-	}],
-	"70": [{
-		"7074": "PAJAK DAERAH KOTA SEMARANG"
-	}, {
+	},
+	"70": {
+		"7074": "PAJAK DAERAH KOTA SEMARANG",
 		"7014": "ETAX BPPKAD BLORA"
-	}]
+	}
 }
