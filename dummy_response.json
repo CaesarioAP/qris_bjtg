@@ -1,0 +1,16 @@
+{
+    "resultCode": "0",
+    "resultDesc": "success",
+    "invoiceId": "10004352877",
+    "content": "00020101021226680016ID.CO.TELKOM.WWW011893600898029268618702150001952926861870303UMI51440014ID.CO.QRIS.WWW0215ID20200539728530303UMI5204931153033605409670297.005502015802ID5917PBB KOTA SEMARANG6013KOTA SEMARANG6105501326215051110004352877630450D4",
+    "info": "",
+    "nmid": "ID2020053972853",
+    "expiredDate": "2022-04-18 12:27:57",
+    "terminalId": null,
+    "timeStamp": "2022-04-18 11:27:57",
+    "name": "SARDJITO, DRS",
+    "payment_type": "PBB - PEMERINTAH KOTA SEMARANG",
+    "bill_amount": 670297,
+    "resp_code_bjtg": "00",
+    "resp_desc_bjtg": "Success"
+}
